@@ -73,7 +73,26 @@ section p {
 
 	
 	}
-
+	
+	
+	@media screen and(max-width: 600px){
+		.nav a:not(:first-child) {
+		display: none;}
+		.nav a.icon {
+		float: right;
+		display: block;
+	}
+	}
+	@media screen and(max-width: 600px){
+		.nav.responsive{position: relative;} 
+		.nav.responsiv.icon{
+			position:absolute;
+			right: 0;
+			top: 0; 
+		}
+	}
+		
+	
 footer{
 	padding: 20px;
 	margin-top: 20px;
@@ -81,3 +100,13 @@ footer{
 	background-color: black;
 	text-align: center;
 }
+
+a:link {
+    color: white;
+	border-radius:20px;
+	}
+
+a:hover, a:active {
+    background-color: black;
+}	
+
