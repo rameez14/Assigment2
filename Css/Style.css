@@ -18,6 +18,7 @@ h2 {
 	color: #ffffff;
 	padding-top:14px;
 	padding-bottom:14px;
+	
 
 }
 
@@ -109,4 +110,26 @@ a:link {
 a:hover, a:active {
     background-color: black;
 }	
+
+
+p{
+padding: 40px;
+color: #ffffff;
+  opacity: 0.8;
+  border-radius:50px;
+   box-shadow: 10px 10px 5px rgba(255, 255, 255, .5);
+   margin:10% 12px 10px 32%;
+     background-color:black;
+
+
+}
+
+img {
+
+	height: 400px;
+	width: 310px;
+	padding:50px;
+	margin: 10px 50px 10px 50px;
+
+}
 
