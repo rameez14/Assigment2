@@ -159,7 +159,8 @@ table {
     border-collapse: collapse;
     width: 70%;
 	margin-left: 18%;
-	margin-right: 20%
+	margin-right: 20%;
+	text-align: center;
 	
 }
 
@@ -178,4 +179,9 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 
+main .dmu{
+height: 100px;
+padding: 10px;
+margin:10px;
 
+}
