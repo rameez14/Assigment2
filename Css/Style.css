@@ -170,16 +170,14 @@ td, th {
     padding: 8px;
 	background-color: black;
 	color: #ffffff;
-	opacity: 0.8;
-  border-radius:20px;
+	opacity: 0.9;
+    border-radius:20px;
   
 }
 
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
 
-main .dmu{
+
+main .image{
 height: 100px;
 padding: 10px;
 margin:10px;
