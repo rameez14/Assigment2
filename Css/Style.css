@@ -12,6 +12,7 @@ header {
 	 color: #ffffff;
 	 padding-top:40px;
 	 padding-bottom:40px;
+
 	
 }
 h2 {
@@ -31,6 +32,7 @@ h4 {
 nav {
 	background-color: #333; 
 	height: 50px;
+	
 }
 
 nav ul li {
@@ -39,17 +41,18 @@ nav ul li {
 	float: left;
 }
 
-li a {
+ul li a {
 	text-decoration: none;
 	color:white;
     line-height: 50px;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+
 }
 
 li a:hover {
-	background-color: #111;
+	background-color: #3b444b;
 }
 
 section {
@@ -62,7 +65,7 @@ section {
   opacity: 0.8;
   border-radius:20px;
    box-shadow: 10px 10px 5px rgba(255, 255, 255, .5);
-   margin-bottom:50px;
+   margin-top:50px;
   }
 
 section p {
@@ -76,27 +79,27 @@ section p {
 	}
 	
 	
-	@media screen and(max-width: 600px){
-		.nav a:not(:first-child) {
+	@media screen (max-width: 600px){
+		nav a:not(:first-child) {
 		display: none;}
-		.nav a.icon {
+		nav a.icon {
 		float: right;
 		display: block;
 	}
 	}
 	@media screen and(max-width: 600px){
-		.nav.responsive{position: relative;} 
-		.nav.responsiv.icon{
+		nav.responsive{position: relative;} 
+		nav.responsiv.icon{
 			position:absolute;
 			right: 0;
 			top: 0; 
 		}
 	}
-		
+
 	
 footer{
 	padding: 20px;
-	margin-top: 20px;
+	margin-top: 200px;
 	color:#ffffff;
 	background-color: black;
 	text-align: center;
@@ -105,10 +108,18 @@ footer{
 a:link {
     color: white;
 	border-radius:20px;
+	
 	}
 
+	main .download{
+	border:solid;
+	padding:20px;
+	margin:20px;
+	transition:0.8s;
+	}
 a:hover, a:active {
-    background-color: black;
+    background-color:#3b444b ;
+
 }	
 
 
@@ -118,7 +129,7 @@ color: #ffffff;
   opacity: 0.8;
   border-radius:50px;
    box-shadow: 10px 10px 5px rgba(255, 255, 255, .5);
-   margin:10% 12px 10px 32%;
+   margin:15% 12px 10px 32%;
      background-color:black;
 
 
@@ -126,10 +137,9 @@ color: #ffffff;
 
 img {
 
-	height: 400px;
+	height: 500px;
 	width: 310px;
 	padding:50px;
 	margin: 10px 50px 10px 50px;
-
 }
 
