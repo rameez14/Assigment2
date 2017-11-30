@@ -12,6 +12,9 @@ header {
 	 color: #ffffff;
 	 padding-top:40px;
 	 padding-bottom:40px;
+	 font-family: 'Open Sans Condensed', sans-serif;
+	 font-size: 20px;
+
 
 	
 }
@@ -19,6 +22,9 @@ h2 {
 	color: #ffffff;
 	padding-top:14px;
 	padding-bottom:14px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 40px;
+
 	
 
 }
@@ -27,6 +33,10 @@ h4 {
 	color: #ffffff;
 	padding-top:40px;
 	padding-bottom:40px;
+	opacity: 0.9;
+  border-radius:20px;
+    background-color:black;
+
 }
 
 nav {
@@ -126,11 +136,12 @@ a:hover, a:active {
 p{
 padding: 40px;
 color: #ffffff;
-  opacity: 0.8;
-  border-radius:50px;
-   box-shadow: 10px 10px 5px rgba(255, 255, 255, .5);
-   margin:15% 12px 10px 32%;
-     background-color:black;
+opacity: 0.8;
+border-radius:50px;
+box-shadow: 10px 10px 5px rgba(255, 255, 255, .5);
+margin:15% 12px 10px 32%;
+background-color:black;
+	 
 
 
 }
@@ -142,4 +153,29 @@ img {
 	padding:50px;
 	margin: 10px 50px 10px 50px;
 }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+	margin-left: 18%;
+	margin-right: 20%
+	
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+	background-color: black;
+	color: #ffffff;
+	opacity: 0.8;
+  border-radius:20px;
+  
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
 
