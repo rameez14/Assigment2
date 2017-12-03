@@ -3,14 +3,16 @@
 <head>
     <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1"><title> Rameez Hussain </title>
+    <script src="main.js"></script> 
+
     <link rel="stylesheet" href="./css/Style.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
 </head>
 <body>
 <header>
-
+   
    <h1>Rameez Hussain Portfolio</h1>
-	          
+	          <div id="clock"></div>
 	<nav>
 	<ul>
 				                      
@@ -29,25 +31,26 @@
 <h2>Contact me</h2>
 <div class="container">
 
-<form action="mailto:rameez_hussain@live.co.uk" method="post" enctype="text/plain">
+<form action="mailto:rameez_hussain@live.co.uk" method="post" enctype="text/plain" onsubmit="return checkforblank()">
 <fieldset>
-<label> First Name:
-<input type="text" id="fname" name="First name" placeholder="Your First name"></label>
+<label> 
+<input type="text" id="fname" name="fname" placeholder="Your First name"></label>
 <br>
 
-<label> Last Name:
-<input type="text" id="lname" name="Last name" placeholder="Your Last name"></label>
+<label>
+<input type="text" id="lname" name="lname" placeholder="Your Last name"></label>
 <br>
 
-<label> Email address:
-<input type="text" id="ename" name="Email" placeholder="Your Email address"></label>
+<label> 
+<input type="text" id="ename" name="ename" placeholder="Your Email address"></label>
 <br>
 
-<label> Subject:
-<input type="text" id="sname" name="Subject" placeholder="Type your message here"></label>
+<label>
+<input type="text" id="sname" name="sname" placeholder="Type your message here"></label>
 
 <input type="submit" value="Send message">
 </fieldset>
+
 </form>
 </div>
 

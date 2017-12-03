@@ -16,6 +16,7 @@ header {
 	 padding-bottom:40px;
 	 font-family: 'Open Sans Condensed', sans-serif;
 	 font-size: 20px;
+	 
 
 
 	
@@ -335,8 +336,12 @@ input[type=submit]:hover {
 	opacity: 0.9;
     border-radius:20px;
     background-color:#ffffff;
-	
-	
-	
 
+}
+
+#clock{
+	width: 1350px;
+	text-align: center;
+	font-size: 50px;
+	
 }
