@@ -15,3 +15,26 @@ function displayclock(){
 	document.getElementById('clock').innerHTML = hrs + ':' + min + ':' + sec;
 	
 }
+
+//contact form validation 
+
+function checkforblank(){
+	if(document.getElementById('fname').value=="") {
+		alert('Please enter your first name');
+		return false;
+}
+else if (document.getElementById('lname').value=="") {
+		alert('Please enter your last name');
+		return false;
+}
+else if (document.getElementById('ename').value=="") {
+		alert('Please enter your email address');
+		return false;
+}
+
+else if (document.getElementById('sname').value=="") {
+		alert('Please enter your message');
+		return false;
+}
+}
+
