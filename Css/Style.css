@@ -310,7 +310,7 @@ input[type=text], select, textarea {
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical;
+ 
 }
 
 input[type=submit] {
@@ -333,9 +333,10 @@ input[type=submit]:hover {
     padding: 20px;
 	float: center;
 	margin: 20px 200px 100px 200px;
-	opacity: 0.9;
+	opacity: 0.9s;
     border-radius:20px;
     background-color:#ffffff;
+
 
 }
 
@@ -344,4 +345,5 @@ input[type=submit]:hover {
 	text-align: center;
 	font-size: 50px;
 	
+  	
 }
