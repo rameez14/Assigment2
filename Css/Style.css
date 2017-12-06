@@ -347,3 +347,10 @@ input[type=submit]:hover {
 	
   	
 }
+
+#map {
+  height: 400px;
+  width: 50%;
+  margin: 95px 200px 200px 350px;
+}
+
