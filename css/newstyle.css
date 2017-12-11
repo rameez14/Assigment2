@@ -115,7 +115,15 @@ nav a:hover {
   color: black;
 }
 
-
+#clock{
+	margin-top: 20%;
+	text-align: center;
+	font-size: 50px;
+	color: limegreen;
+	
+	
+  	
+}
 
 #map {
   position: relative;
@@ -215,3 +223,12 @@ h1 span {
 		transform: translateY(0px)
 
 	}
+
+}
+
+footer{
+	padding: 20px;
+	color:#ffffff;
+	background-color: black;
+	text-align: center;
+}

@@ -1,4 +1,3 @@
-
 function checkforblank(){
 	if(document.getElementById('fname').value=="") {
 		alert('Please enter your first name');
@@ -25,13 +24,11 @@ function initMap() {
   let bb = {lat: 51.5007, lng: -0.1246};
   let mapDemo = document.getElementById("map");
 
-  // this sets the default location for when the map is first loaded
   let map = new google.maps.Map(mapDemo, {
     zoom: 13,
     center: london
   });
 
-  // these set different markers you want to show on your map
   let markerbb = new google.maps.Marker({
     position: bb,
     map: map,
@@ -39,4 +36,22 @@ function initMap() {
   });
   
 }
+setInterval(dispalyclock, 500);
+function dispalyclock(){
+	var time = new Date();
+	var hrs = time.getHours();
+	var min = time.getMinutes();
+	var sec = time.getSeconds();
+	
+
+	
+	if (hrs ==0){
+		hrs =12;
+	}
+	
+	document.getElementById('clock').innerHTML = hrs + ':' + min + ':' + sec;
+	
+	
+	}
+
 
