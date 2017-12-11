@@ -49,6 +49,8 @@ function dispalyclock(){
 		hrs =12;
 	}
 	
+	
+	
 	document.getElementById('clock').innerHTML = hrs + ':' + min + ':' + sec;
 	
 	

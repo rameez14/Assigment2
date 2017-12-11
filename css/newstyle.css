@@ -116,10 +116,10 @@ nav a:hover {
 }
 
 #clock{
-	margin-top: 20%;
+	margin-top: 5%;
 	text-align: center;
 	font-size: 50px;
-	color: limegreen;
+	color: blue;
 	
 	
   	
@@ -192,6 +192,8 @@ h1 {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
+	margin-top: -10%;
+
 	
 }
 
@@ -210,17 +212,17 @@ h1 span {
 {
 	0%
 	{
-		transform: translateY(0px)
+		transform: translateY(0px);
 	}
 	50%
 	{
 				
-		transform: translateY(-20px)
+		transform: translateY(-20px);
 
 	}
 	100%
 	{
-		transform: translateY(0px)
+		transform: translateY(0px);
 
 	}
 
@@ -232,3 +234,48 @@ footer{
 	background-color: black;
 	text-align: center;
 }
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.bye{
+	width: 100px;
+	height: 100px;
+	background: #ff6d4a;
+	margin: 600px 20px 250px 5px;
+	border-radius:50%;
+	color: #ffffff;
+	font-size: 20px;
+    text-align: center;
+	line-height: 100px;
+	animation: ani 3s linear infinite;
+	
+}
+@media(min-width:320px){
+
+@keyframes ani
+{
+	0%
+	{
+		box-shadow: 0 0 0 0 rgba(255,109,74,.7);
+	}
+	40%
+	{
+		box-shadow: 0 0 0 50px rgba(255,109,74,.7);
+	}
+	80% 
+	{
+        box-shadow: 0 0 0 50px rgba(255,109,74,.7);		
+	}
+	100%
+	{
+		box-shadow: 0 0 0 0 rgba(255,109,74,.7);
+	}
+	
+}
+
+
