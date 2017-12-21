@@ -56,8 +56,8 @@ function dispalyclock(){
 	
 	}
 
-	let pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
-let questions = [
+	var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
+var questions = [
     [ "What town was I born in?", "Leicester", "Bedford", "London", "B" ],
 	[ "What university am I currently studying in?", "University of Leicester", "Brunel university", "De Montfort university", "C" ],
 	[ "What degree am I currently studying?", "Computer Science", "Computer Security", "Software Engineering", "A" ],
@@ -88,7 +88,7 @@ function renderQuestion(){
 }
 function checkAnswer(){
 	choices = document.getElementsByName("choices");
-	for(let i=0; i<choices.length; i++){
+	for(var i=0; i<choices.length; i++){
 		if(choices[i].checked){
 			choice = choices[i].value;
 		}
