@@ -56,7 +56,7 @@ function dispalyclock(){
 	
 	}
 
-	var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
+var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
 var questions = [
     [ "What town was I born in?", "Leicester", "Bedford", "London", "B" ],
 	[ "What university am I currently studying in?", "University of Leicester", "Brunel university", "De Montfort university", "C" ],
@@ -101,4 +101,12 @@ function checkAnswer(){
 }
 window.addEventListener("load", renderQuestion, false);
 
+function myFunction () {
+	var x =document.getElementById("myTopnav");
+	if(x.className ==="topnav") {
+	x.className += " responsive";
+	} else {
+		x.className = "topnav";
+	}
+}
 

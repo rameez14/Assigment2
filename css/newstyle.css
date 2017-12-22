@@ -76,27 +76,51 @@ h2{
 	padding: 0;
 }
 
+.topnav {
+	overflow: hidden;
+	background: #333;
+	position: fixed;
+	width: 100%;
+	z-index: 3;
+}
 
-nav {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  padding: 5px;
-  position: fixed;
-  width: 100%;
-  z-index: 3;
-  background-color: #333; 
-  
+
+.topnav a {
+	float: left;
+	display: none;
+	color: white;
+	text-align: center;
+	padding: 20px 25px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana;
 }
-nav a {
-  width: 5em;
-  color:white;
-  line-height: 50px;
-  padding: 14px 16px;
+.topnav a:hover {
+	background: #353839;
+	color: black;
 }
-nav a:hover {
-  background-color: #3b444b;
+.topnav .icon {
+	display: block;
+
 }
+    .topnav a:not (first-child) { display: none;}
+	.top a.icon {
+		float: right;
+		display: block;
+	}
+	.topnav.responsive .icon {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+	.topnav.responsive a {
+		float: none;
+		display: block;
+		text-align: center;
+	}
+
+
+
 .top {
   display: block;
   text-align: center;
@@ -105,7 +129,7 @@ nav a:hover {
 
 }
 .top:hover {
-  background: #3b444b;
+  background: #555555;
   color: black;
 }
 
@@ -378,31 +402,51 @@ h2{
 	padding: 0;
 }
 
-a{
-	text-decoration: none;
-	
+.topnav {
+	overflow: hidden;
+	background: #333;
+	position: fixed;
+	width: 100%;
+	z-index: 3;
 }
 
-nav {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  padding: 5px;
-  position: fixed;
-  width: 100%;
-  z-index: 3;
-  background-color: #333; 
-  
+
+.topnav a {
+	float: left;
+	display: none;
+	color: white;
+	text-align: center;
+	padding: 20px 25px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana;
 }
-nav a {
-  width: 5em;
-  color:white;
-  line-height: 50px;
-  padding: 14px 16px;
+.topnav a:hover {
+	background: #555555;
+	color: black;
 }
-nav a:hover {
-  background-color: #3b444b;
+.topnav .icon {
+	display: block;
+
 }
+    .topnav a:not (first-child) { display: none;}
+	.top a.icon {
+		float: right;
+		display: block;
+	}
+	.topnav.responsive .icon {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+	.topnav.responsive a {
+		float: none;
+		display: block;
+		text-align: center;
+	}
+
+
+	
 .top {
   display: block;
   text-align: center;
@@ -411,7 +455,7 @@ nav a:hover {
 
 }
 .top:hover {
-  background: #3b444b;
+  background: #999999;
   color: black;
 }
 
@@ -614,6 +658,7 @@ ul{
   color:#666;
   width: 100%;
   background-color: blue;
+
  
 }
 
@@ -676,31 +721,32 @@ h2{
 	padding: 0;
 }
 
-a{
-	text-decoration: none;
-	
+.topnav {
+	overflow: hidden;
+	background: #333;
+	position: fixed;
+	width: 100%;
+	z-index: 3;
 }
 
-nav {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  padding: 5px;
-  position: fixed;
-  width: 100%;
-  z-index: 3;
-  background-color: #333; 
-  
+.topnav a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 25px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana;
 }
-nav a {
-  width: 5em;
-  color:white;
-  line-height: 50px;
-  padding: 14px 16px;
+.topnav a:hover {
+	background: #555555;
+	color: black;
 }
-nav a:hover {
-  background-color: #3b444b;
+.topnav .icon {
+	display: none;
 }
+
 .top {
   display: block;
   text-align: center;
@@ -863,6 +909,6 @@ img {
  
  }
 
-	
+
 
 
