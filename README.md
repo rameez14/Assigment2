@@ -7,8 +7,12 @@ I started to design my website, but I wasn’t very happy about the design, layo
 
 ## About me page
 Below is the first about me page which looks reasonable at the first glimpse, however it was complicated getting everything to reasonable scale and playing around with the padding and margin was long and the design was not pleasing to me. 
+
+![aboutme1](https://user-images.githubusercontent.com/25589868/34320328-bc9f9a0c-e7ef-11e7-892c-9aa011798e6a.jpg)
+
  Figure 1 – About me page 
-Qualifications page 
+
+## Qualifications page 
 Below is the qualifications page in which you can find about what I have done or what I am currently doing, this page was not responsive unlike the other pages as it contained a large table and I found it difficult to make it responsive, I made it partially responsive but not fully. Once again, the design was not appealing.
 
   
