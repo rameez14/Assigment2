@@ -1,4 +1,5 @@
 ## Website Project – Portfolio website 
+
 ## Introduction 
 This is a website directed towards myself mainly focussing on how I am, my skills, my education and a contact me form in which the user can fill in and I will receive a email automatically. Whilst the user is on the about me section of my website the user will be able to download my CV and read further on about my life. Whilst planning my website I drew a rough sketch of what my website will look like and, however later I changed my mind and drew another rough sketch on what my website should include, the drawing you can find below as a form of a screenshot. All the relevant folder you can find on my GitHub page.
 
@@ -74,9 +75,11 @@ I have created a way to check if each filed within my contact form is filled out
 
 ## Quiz
 I have created a JavaScript quiz about myself. This JavaScript quiz first sees the test status in which the user has a choice of choice A, choice B and choice C. Then the four questions are asked. After completing the quiz, you are displayed your result of how many question you got right. It will check the question length and it will also check if the questions answered are correct or not    
-Navigation 
+
+## Navigation 
 To make the navigation bar responsive I added JavaScript to check get the element by id. 
-Google map API 
+
+## Google map API 
 I have implemented Google Map API within my website, the JavaScript plays a major role as it allows me to display the location I want with a marker showing this. 
 
 ## API that I have used within my website 
@@ -107,12 +110,14 @@ I have used a ul and li element to contain the message displaying thank you. Onc
 
 ## Testing one
 One user suggested to me that my contact form was too simple, and I would receive empty emails.
-Problem resolved one
+
+## Problem resolved one
 I have made a responsive contact form with CSS styling. The contact form now looks professional and I have added validation by using JavaScript and now no one can submit a empty form and I won’t receive empty emails.
 
 ## Testing two
 One user said that why does the navigation bar disappear?
-Problem resolved two
+
+## Problem resolved two
 To make my website user friendly I decided to make the navigation bar at a fixed position so when you scroll down you can see the navigation bar where ever you are on the website and click on the relevant sections.
 
 ## Testing three
