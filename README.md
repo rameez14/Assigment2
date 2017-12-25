@@ -1,5 +1,3 @@
-
-=======
 ## Website Project – Portfolio website 
 
 ## Introduction 
