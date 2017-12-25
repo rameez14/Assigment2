@@ -12,6 +12,7 @@ body, html{
  
 }
 
+
 .picture1 {
   position:relative;
   opacity:0.70;
@@ -66,14 +67,14 @@ body, html{
   section {
     padding: 0 ;
   }
-  h2 {
-    font-size: 2em;
-  }
 
 
 h2{
 	text-align: center;
 	padding: 0;
+	font-size: 2em;
+	line-height: 40px;
+
 }
 
 .topnav {
@@ -103,7 +104,7 @@ h2{
 	display: block;
 
 }
-    .topnav a:not (first-child) { display: none;}
+    
 	.top a.icon {
 		float: right;
 		display: block;
@@ -325,11 +326,44 @@ ul{
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    background-color: #3b444b  ;
+    background-color: #3b444b;
    color: white;
  
  }
+ *{
+	box-sizing:border-box;
+	
+	}
 
+	.box{
+    width: 33%;
+    height:500px;
+    float: left;
+    text-align: center;
+	
+
+    
+}
+   .box1{
+	background: green;
+	
+	}
+	
+    .box2 { 
+    background: black;
+}
+
+    .box3 { 
+    background: blue;
+}
+
+ .box{
+  
+        width:100%;
+		
+    }
+
+	
 
 @media screen and (min-width:500px) {
 	body, html{
@@ -400,6 +434,9 @@ ul{
 h2{
 	text-align: center;
 	padding: 0;
+	line-height: 40px;
+    font-size: 2em;
+
 }
 
 .topnav {
@@ -429,7 +466,7 @@ h2{
 	display: block;
 
 }
-    .topnav a:not (first-child) { display: none;}
+    
 	.top a.icon {
 		float: right;
 		display: block;
@@ -543,6 +580,8 @@ h1 span {
 }
 
 
+
+
 footer{
 	padding: 20px;
 	color:#ffffff;
@@ -642,8 +681,37 @@ ul{
    color: white;
  
  }
+ 
+ *{
+	box-sizing:border-box;
+	
+	}
 
+	.box{
+    height: 670px;
+    float: left;
+    text-align: center;
+    
 }
+   .box1{
+	background: green;
+	}
+	
+    .box2 { 
+    background: black;
+}
+
+    .box3 { 
+    background: blue;
+}
+
+.box1, .box2{
+        width:50%;
+    }
+    .box3{
+        width:100%;
+    }
+
 
 /* breakpoint three desktop */
 @media screen and (min-width: 1000px) {
@@ -719,6 +787,9 @@ ul{
 h2{
 	text-align: center;
 	padding: 0;
+	line-height: 40px;
+    font-size: 2em;
+	
 }
 
 .topnav {
@@ -773,7 +844,7 @@ h2{
   position: relative;
   padding-bottom: 10%;
   padding-top: 10px;
-  height: 100px;
+  height: 200px;
   overflow: hidden;
   margin: 40px 20px 250px 5px;
 
@@ -905,10 +976,28 @@ img {
     border-radius: 4px;
     box-sizing: border-box;
     background-color: #3b444b  ;
-   color: white;
- 
- }
+    color: white;
+}
+*{
+	box-sizing:border-box;
+	
+	}
 
+	.box{
+    width: 33%;
+    height:550px;
+    float: left;
+    text-align: center;
+    
+}
+   .box1{
+	background: green;
+	}
+	
+    .box2 { 
+    background: black;
+}
 
-
-
+    .box3 { 
+    background: blue;
+}
