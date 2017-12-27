@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ## Website Project – Portfolio website 
 
 ## Introduction 
@@ -130,7 +128,8 @@ I take this comment on board, the reason why I never decided to get rid of the C
 
 ## Testing four
 One user said to me that my website should be able to translate in to other languages.
-Problem resolved four
+
+## Problem resolved four
 I take this comment on board, I am currently trying to add this feature in my website, but it is proving difficult. If I have time and figure out how to add this feature I would add it.
 
 ## Things you must do before marking my website
@@ -141,14 +140,3 @@ Initially when you click on the GitHub page link, view my website, right click o
 ## References 
 
 To be added later
-
-
-
-    
-
-
-
-
-
-
->>>>>>> 7b3bb7944ef907745ae26c7064ab2e337ba7d889
