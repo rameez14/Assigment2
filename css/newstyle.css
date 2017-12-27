@@ -363,7 +363,13 @@ ul{
 		
     }
 
-	
+	#translator {
+	  float: right;
+	  margin: 10px 10px 10px 5px;
+	  margin-top: -15px;
+	  margin-bottom: -5%;
+
+}
 
 @media screen and (min-width:500px) {
 	body, html{
@@ -712,7 +718,13 @@ ul{
         width:100%;
     }
 
+#translator {
+	  float: right;
+	  margin: 10px 10px 10px 5px;
+	  margin-top: -15px;
+	  margin-bottom: -5%;
 
+}
 /* breakpoint three desktop */
 @media screen and (min-width: 1000px) {
 	body, html{
@@ -1000,4 +1012,12 @@ img {
 
     .box3 { 
     background: blue;
+	} 
+
+#translator {
+	  float: right;
+	  margin: 10px 10px 10px 5px;
+	  margin-top: -15px;
+	  margin-bottom: -5%;
+
 }
