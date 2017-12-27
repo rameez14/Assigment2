@@ -9,7 +9,7 @@ body, html{
   color:#666;
   width:100%;
   background-color: green;
- 
+  scroll-behavior: smooth;
 }
 
 
@@ -383,7 +383,7 @@ ul{
   color:#666;
   width: 100%;
   background-color: yellow;
- 
+ scroll-behavior: smooth;
 }
 .picture1 {
   position:relative;
@@ -738,8 +738,7 @@ ul{
   color:#666;
   width: 100%;
   background-color: blue;
-
- 
+  scroll-behavior: smooth;
 }
 
 
