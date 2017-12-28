@@ -127,7 +127,7 @@ h2{
 .top {
   display: block;
   text-align: center;
-  line-height: 1.75em;
+  line-height: 4em;
   padding-right: 0.5em;
 
 }
@@ -388,7 +388,13 @@ ul{
 	  margin-bottom: -5%;
 
 }
+.download{
+	border:solid;
+	padding:15px;
+	margin: 40px;
 
+	
+	}
 	
 
 @media screen and (min-width:500px) {
@@ -516,7 +522,7 @@ h2{
 .top {
   display: block;
   text-align: center;
-  line-height: 1.75em;
+  line-height: 4em;
   padding-right: 0.5em;
 
 }
@@ -767,7 +773,14 @@ ul{
 	  margin-bottom: -5%;
 
 }
+.download{
+	border:solid;
+	padding:15px;
+	margin: 40px;
 
+	
+	}
+}
 /* breakpoint three desktop */
 @media screen and (min-width: 1000px) {
 	body, html{
@@ -877,11 +890,9 @@ h2{
 
 .top {
   display: block;
-  text-align: center;
-  line-height: 1.75em;
+  line-height: 4em;
   padding-right: 0.5em;
-
-}
+ }
 .top:hover {
   background: #3b444b;
   color: black;
@@ -1050,7 +1061,7 @@ img {
 	}
 
 	.box{
-    width: 33%;
+    width: 33.3%;
     height:550px;
     float: left;
     text-align: center;
@@ -1075,3 +1086,16 @@ img {
 	  margin-bottom: -5%;
 
 }
+.download{
+	border:solid;
+	padding:15px;
+	margin: 40px;
+
+	
+	}
+	
+	a:hover, a:active {
+    background-color:#3b444b ;
+
+}
+}	
