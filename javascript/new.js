@@ -63,8 +63,8 @@ var questions = [
 	[ "What degree am I currently studying?", "Computer Science", "Computer Security", "Software Engineering", "A" ],
 	[ "What secondary school did I attend?", "Kingsbury High School ", "Beaumont Leys School", "Biddenham Upper School", "C" ]
 ];
-function _(x){
-	return document.getElementById(x);
+function _(y){
+	return document.getElementById(y);
 }
 function renderQuestion(){
 	test = _("test");
@@ -84,7 +84,7 @@ function renderQuestion(){
 	test.innerHTML += "<input type='radio' name='choices' value='A'> "+chA+"<br>";
 	test.innerHTML += "<input type='radio' name='choices' value='B'> "+chB+"<br>";
 	test.innerHTML += "<input type='radio' name='choices' value='C'> "+chC+"<br><br>";
-	test.innerHTML += "<button onclick='checkAnswer()'>Submit</button>";
+	test.innerHTML += "<button onclick='checkAnswer()'>Go to next question</button>";
 }
 function checkAnswer(){
 	choices = document.getElementsByName("choices");
