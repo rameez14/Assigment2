@@ -138,6 +138,17 @@ I take this comment on board, I am currently trying to add this feature in my we
 
 ![yandextranslatorwidget](https://user-images.githubusercontent.com/25589868/34441824-1b3700bc-ecb6-11e7-9e2e-f08973bd251d.jpg)
 
+## Wireframes
+![wireframe1](https://user-images.githubusercontent.com/25589868/34446817-46be48a6-ecd6-11e7-9b8c-c69fe30d578f.jpg)
+
+![wireframe2](https://user-images.githubusercontent.com/25589868/34446830-63d53e7c-ecd6-11e7-9df9-f4e3962f8ea6.jpg)
+
+![wireframe3](https://user-images.githubusercontent.com/25589868/34446844-795c7224-ecd6-11e7-962b-7742f69a2e40.jpg)
+
+![wireframe4](https://user-images.githubusercontent.com/25589868/34446849-866a913a-ecd6-11e7-8e4c-3b6e36ce59e1.jpg)
+
+
+
 ## Things you must do before marking my website
 
 Initially when you click on the GitHub page link, view my website, right click on inspect you may be prompted with a JavaScript error, you may not see the Google Map API and you may not see the quiz. You should refresh the page and you should see no JavaScript errors, you should see the Google Map Api and you should see the quiz upon refreshing the page. I do not know why it does this.
@@ -169,3 +180,6 @@ CodePen. (2017). HTML5 and CSS3 Three Column Responsive Layout. [online] Availab
 
 YouTube. (2017). How to create responsive navigation bar and menus?. [online] Available at: https://www.youtube.com/watch?v=dhtEAhHgiok&t=850s [Accessed 22 Dec. 2017].
 
+YouTube. (2017). Exam Application Programming Tutorial JavaScript Quiz Online Test. [online] Available at: https://www.youtube.com/watch?v=d_UuOVhuCF8 [Accessed 21 Dec. 2017].
+
+YouTube. (2017). Css 3D Text Jumping Animation - Latest Css Animation Effect 2017 - Plz SUBSCRIBE Us For Daily Videos. [online] Available at: https://www.youtube.com/watch?v=PjIGduzykS8 [Accessed 11 Dec. 2017].
