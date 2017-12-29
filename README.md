@@ -147,6 +147,11 @@ I take this comment on board, I am currently trying to add this feature in my we
 
 ![wireframe4](https://user-images.githubusercontent.com/25589868/34446849-866a913a-ecd6-11e7-8e4c-3b6e36ce59e1.jpg)
 
+![wireframe5](https://user-images.githubusercontent.com/25589868/34448056-04f6b082-ece2-11e7-93e5-dd1f8dde3504.jpg)
+
+![wireframe6](https://user-images.githubusercontent.com/25589868/34448059-0756a1de-ece2-11e7-9219-7ea28b080ba9.jpg)
+
+![wireframe7](https://user-images.githubusercontent.com/25589868/34448063-0989300c-ece2-11e7-8b01-bbb3ee49c147.jpg)
 
 
 ## Things you must do before marking my website
