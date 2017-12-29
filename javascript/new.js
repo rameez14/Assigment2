@@ -24,7 +24,7 @@ function initMap() {
   let london = {lat:51.5074 , lng: -0.1278};
   let bb = {lat: 51.5007, lng: -0.1246};
   let mapDemo = document.getElementById("map");
-  // this sets the location for the map is when displayed on my website
+  // This sets the location for the map is when displayed on my website
     let map = new google.maps.Map(mapDemo, {
     zoom: 13,
     center: london
@@ -37,24 +37,24 @@ function initMap() {
   });
   
 }
-  // This displays the live time on my website
+// This displays the live time on my website
 setInterval(dispalyclock, 500);
 function dispalyclock(){
 	let time = new Date();
 	let hrs = time.getHours();
 	let min = time.getMinutes();
 	let sec = time.getSeconds();
-	  // This displays the live time in the form of a twenty-four hour clock
+    // This displays the live time in the form of a twenty-four hour clock
         if (hrs ==0){
 		hrs =12;
 }
 	
 	document.getElementById('clock').innerHTML = hrs + ':' + min + ':' + sec;
 }
-  // This displays a quiz and gets the element by id
-var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
-  // This displays the questions
-var questions = [
+// This displays a quiz and gets the element by id
+let pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
+// This displays the questions
+let questions = [
     [ "What town was I born in?", "Leicester", "Bedford", "London", "B" ],
 	[ "What university am I currently studying in?", "University of Leicester", "Brunel university", "De Montfort university", "C" ],
 	[ "What degree am I currently studying?", "Computer Science", "Computer Security", "Software Engineering", "A" ],
@@ -84,10 +84,11 @@ function renderQuestion(){
 	test.innerHTML += "<input type='radio' name='choices' value='C'> "+chC+"<br><br>";
 	test.innerHTML += "<button onclick='checkAnswer()'>Go to next question</button>";
 }
-  // This checks the answers to see if you got them correct or not
+
+// This checks the answers to see if you got them correct or not
 function checkAnswer(){
 	choices = document.getElementsByName("choices");
-	for(var i=0; i<choices.length; i++){
+	for(let i=0; i<choices.length; i++){
 		if(choices[i].checked){
 			choice = choices[i].value;
 }
@@ -100,9 +101,9 @@ function checkAnswer(){
 }
 window.addEventListener("load", renderQuestion, false);
 
-  // This is for the responsive navigation bar
+// This is for the responsive navigation bar
 function myFunction () {
-	var x =document.getElementById("myTopnav");
+	let x =document.getElementById("myTopnav");
 	if(x.className ==="topnav") {
 	x.className += " responsive";
 	} else {
