@@ -37,10 +37,14 @@ The header I have used in my website is a horizontal navigation bar with links t
 
 ![navigationbar](https://user-images.githubusercontent.com/25589868/34320401-7a04be46-e7f1-11e7-87f3-11b53f1020d5.jpg)
 
+## Footer
+
+The footer is a very basic footer which is displayed at the bottom of my page, it only displays my Rameez Hussain portfolio website, it is fixed at the bottom of my page.
+
+![footer](https://user-images.githubusercontent.com/25589868/34441619-d1a20a10-ecb4-11e7-8168-a0159e3c25c9.jpg)
 
 ## About me page
 This is the page where you get to know me, on this page you can click to download my CV and read about me life.
-
 
 ![aboutme2](https://user-images.githubusercontent.com/25589868/34320410-ba6f2462-e7f1-11e7-96a2-f45e5ee958df.jpg)
 
@@ -130,7 +134,9 @@ I take this comment on board, the reason why I never decided to get rid of the C
 One user said to me that my website should be able to translate in to other languages.
 
 ## Problem resolved four
-I take this comment on board, I am currently trying to add this feature in my website, but it is proving difficult. If I have time and figure out how to add this feature I would add it.
+I take this comment on board, I am currently trying to add this feature in my website, but it is proving difficult. If I have time and figure out how to add this feature I would add it. I would add it. I Have now added this feature by using the Yandex Translator widget for websites, you can translate my website into any language you want now using this feature.
+
+![yandextranslatorwidget](https://user-images.githubusercontent.com/25589868/34441824-1b3700bc-ecb6-11e7-9e2e-f08973bd251d.jpg)
 
 ## Things you must do before marking my website
 
@@ -139,4 +145,27 @@ Initially when you click on the GitHub page link, view my website, right click o
 
 ## References 
 
-To be added later
+W3schools.com. (2017). How To Create a Contact Form with CSS. [online] Available at: https://www.w3schools.com/howto/howto_css_contact_form.asp [Accessed 28 Dec. 2017].
+
+W3schools.com. (2017). How To Google Maps. [online] Available at: https://www.w3schools.com/howto/howto_google_maps.asp [Accessed 6 Dec. 2017].
+
+W3schools.com. (2017). Tryit Editor v3.5. [online] Available at: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_mail [Accessed 28 Dec. 2017].
+
+Translate.yandex.com. (2017). Widget for websites. [online] Available at: https://translate.yandex.com/developers/website-widget [Accessed 27 Dec. 2017].
+
+Google Developers. (2017). Google Maps JavaScript API  |  Google Developers. [online] Available at: https://developers.google.com/maps/documentation/javascript/ [Accessed 6 Dec. 2017].
+
+GitHub. (2017). DaveEveritt/css-smooth-scroll. [online] Available at: https://github.com/daveeveritt/css-smooth-scroll [Accessed 27 Dec. 2017].
+
+GitHub. (2017). CTEC3905/08-lab-json-ajax. [online] Available at: https://github.com/CTEC3905/08-lab-json-ajax [Accessed 29 Dec. 2017].
+
+GitHub. (2017). CTEC3905/08-lab-json-ajax. [online] Available at: https://github.com/CTEC3905/08-lab-json-ajax/tree/googlemaps [Accessed 6 Dec. 2017].
+
+YouTube. (2017). Build An HTML5 Website With A Responsive Layout. [online] Available at: https://www.youtube.com/watch?v=Wm6CUkswsNw [Accessed 15 Dec. 2017].
+
+YouTube. (2017). Basic Parallax Website With HTML & CSS. [online] Available at: https://www.youtube.com/watch?v=JttTcnidSdQ [Accessed 9 Dec. 2017].
+
+CodePen. (2017). HTML5 and CSS3 Three Column Responsive Layout. [online] Available at: https://codepen.io/smashtheshell/pen/qOrrwV [Accessed 25 Dec. 2017].
+
+YouTube. (2017). How to create responsive navigation bar and menus?. [online] Available at: https://www.youtube.com/watch?v=dhtEAhHgiok&t=850s [Accessed 22 Dec. 2017].
+
