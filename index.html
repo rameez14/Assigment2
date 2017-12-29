@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Rameez Hussain portfolio website</title>
+  <!-- I have linked my external stylesheet which is in a seperate folder -->
   <link rel="stylesheet" href="css/newstyle.css">
 </head>
 <body>
-
+      <!-- Navigation bar,with a div tag using links-->
     <div class ="topnav" id="myTopnav">
-
         <a href="#page-1">About me</a>
         <a href="#page-2">Skills and Qualfications</a>
         <a href="#page-3">Contact me</a>
@@ -19,34 +19,37 @@
 
      <div class="picture1">
          <div class="paragraph">
-        <h1>		  
+        <h1>
+            <!-- Span element in which I have created a css animation by using key frames -->		
             <span>H.RAMEEZ </span>
      </h1>
+	    <!-- This displays live time, which is at the top of my page-->
 		<div id="clock"></div>
-				  
 	</div>
   </div>
 <div class="center">
+     <!-- This is a pulse css circle animation-->
      <div class="bye">Enjoy</div>
 </div>
 
     <img src="img/am.png" alt="Rameez"/>
-     
+     <!-- This is the about me page which has a section tag and artice tag-->
              <section id="page-1">
 	   <h2> Who am I? </h2>
             <article class="section section-one">
+			     <!-- I have used the Yandex Translator widget for website, which translate my website into multiple languages-->
 	             <div id="translator"></div>
 	     <script src="https://translate.yandex.net/website-widget/v1/widget.js?widgetId=translator&pageLang=en&widgetTheme=light&autoMode=false"> </script>
                  <h2>About me</h2>
     <p> Born in the year of 1995 in the small town of Bedford, I am a outgoing person who is in his final year studying Computer Science BSc (Hons). I am an enthusiastic individual who is conscientious and hard working. My inclination to opt for challenging tasks can be seen in my choice for studying Computer Science BSc (Hons). Computer Science has allowed me to understand theoretical and practical aspects of computer hardware, software, operating systems, networking and how the programmatic ways of storing data in computers so that the data can be used efficiently. Furthermore, I have knowledge in many programming languages such as, Programming in C, Haskell, Java, Python, PHP, SQL which is a Database language and XHTML, HTML and CSS which used to create and develop websites. </p> 
-
+             <!-- Here you can download my CV-->
              <a class="download" href="Rameez-Hussain-cv.pdf" download>Click to download my CV</a>
-         <a class="top" href="#page-1">Click to go back</a>
+		<a class="top" href="#page-1">Click to go back</a>
 
         </article>
   </section>
 
-  
+       <!-- This is the my skills and qualifications page which has a section tag and artice tag-->
      <img src="img/goals.jpg" alt="Goals"/>
                  <section id="page-2">
 		    <h2> My Skills and Qualfications </h2>
@@ -64,30 +67,34 @@
                          <h2>Biddenham Upper School - A levels</h2>
                 <p> I successfully completed two years of my A levels at Biddenham Upper School. Throughout my studies I have learned new skills and expanding on those I already had. I also had the opportunity of mentoring a student from a lower year who was struggling. I successfully compleated three A levels. <br> <br> My grades are as follows: <br> <br> Law: B <br> <br> Sociology: C <br> <br>Religious studies: C
              </div>
-               <div class="box box3">
+			      <!-- This is a three grid column which contains my qualifications-->
+                 <div class="box box3">
                          <h2>Biddenham Upper School - GCSEs</h2>
                  <p> I have seven GCSEs. <br> My grades are as follows: <br> <br> GCSE English Language: C <br> <br> GCSE Law: C  <br> <br>GCSE Religious studies: B <br> <br>GCSE Citizenship: B <br> <br>BTEC Health and Social Care: Distinction <br> <br>BTEC PE: Merit <br> <br>BTEC WorkSkills: Pass
              </div>
-         <a class="top" href="#page-1">Click to go back</a>
+			      <!-- By clicking this link you can scroll back to my about me page-->
+                 <a class="top" href="#page-1">Click to go back</a>
          </article>
   </section>
 
-  
-    <img src="img/question.jpg" alt="Qualfications"/>
+         <!-- This is the contact me page which has a section tag and artice tag-->
+     <img src="img/question.jpg" alt="Qualfications"/>
             <section id="page-3">
 	             <h2> Do you have any questions?</h2>
                      <article class="section section-two">
                  <h2>Contact me</h2>
-    
-	                 <div class="container">
+                    <!-- This is responsive and displays my information-->
+                     <div class="container">
             <div class="myform">
                  <div class="information">
                   <h4>Rameez Hussain</h4>
                   <h4>07938699452</h4>
                   <h4>rameez_hussain@live.co.uk</h4>
 	</div>
-      <div class="contact">
-		<form action="mailto:rameez_hussain@live.co.uk" method="post" onsubmit="return checkforblank()">
+	<!-- This is the contact me form-->
+    <div class="contact">
+	    <!-- I have used a mailto action in which I get a email when the form is send, I have also validated the form as you could see checkforblank-->
+         <form action="mailto:rameez_hussain@live.co.uk" method="post" onsubmit="return checkforblank()">
          
 		    <label>First name
             <input type="text" id="fname" name="fname" placeholder="Your First name"></label>
@@ -106,21 +113,24 @@
       </div>
     </div>
 	</div>
- 
+     <!-- Here I have included a Google map API-->
      <div id="map"></div>
 
 	     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvtuuoE8Jkc6r2dkJXueyl7ZRjNcms78M&callback=initMap"></script>
+                     <!-- Here you can fill out a quiz-->
                      <h2 id="test_status">Quiz</h2>
             <div id="test"></div>
                 <a class="top" href="#page-1">Click to go back</a>
+    <!-- Css glowing animation by using keyframes-->
     <ul>
  <li> Thank you</li>
  </ul>
 
      </article>
   </section>
-  
-         <script src="javascript/new.js"></script>
+        <!-- Here I have linked my javascript file-->
+        <script src="javascript/new.js"></script>
+<!-- I have displayed my footer here-->
 <footer>
 <h5> Rameez Hussain Portfolio Website 2017</h5>
 </footer>
