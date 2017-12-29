@@ -180,3 +180,6 @@ CodePen. (2017). HTML5 and CSS3 Three Column Responsive Layout. [online] Availab
 
 YouTube. (2017). How to create responsive navigation bar and menus?. [online] Available at: https://www.youtube.com/watch?v=dhtEAhHgiok&t=850s [Accessed 22 Dec. 2017].
 
+YouTube. (2017). Exam Application Programming Tutorial JavaScript Quiz Online Test. [online] Available at: https://www.youtube.com/watch?v=d_UuOVhuCF8 [Accessed 21 Dec. 2017].
+
+YouTube. (2017). Css 3D Text Jumping Animation - Latest Css Animation Effect 2017 - Plz SUBSCRIBE Us For Daily Videos. [online] Available at: https://www.youtube.com/watch?v=PjIGduzykS8 [Accessed 11 Dec. 2017].
