@@ -139,4 +139,27 @@ Initially when you click on the GitHub page link, view my website, right click o
 
 ## References 
 
-To be added later
+W3schools.com. (2017). How To Create a Contact Form with CSS. [online] Available at: https://www.w3schools.com/howto/howto_css_contact_form.asp [Accessed 28 Dec. 2017].
+
+W3schools.com. (2017). How To Google Maps. [online] Available at: https://www.w3schools.com/howto/howto_google_maps.asp [Accessed 6 Dec. 2017].
+
+W3schools.com. (2017). Tryit Editor v3.5. [online] Available at: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_mail [Accessed 28 Dec. 2017].
+
+Translate.yandex.com. (2017). Widget for websites. [online] Available at: https://translate.yandex.com/developers/website-widget [Accessed 27 Dec. 2017].
+
+Google Developers. (2017). Google Maps JavaScript API  |  Google Developers. [online] Available at: https://developers.google.com/maps/documentation/javascript/ [Accessed 6 Dec. 2017].
+
+GitHub. (2017). DaveEveritt/css-smooth-scroll. [online] Available at: https://github.com/daveeveritt/css-smooth-scroll [Accessed 27 Dec. 2017].
+
+GitHub. (2017). CTEC3905/08-lab-json-ajax. [online] Available at: https://github.com/CTEC3905/08-lab-json-ajax [Accessed 29 Dec. 2017].
+
+GitHub. (2017). CTEC3905/08-lab-json-ajax. [online] Available at: https://github.com/CTEC3905/08-lab-json-ajax/tree/googlemaps [Accessed 6 Dec. 2017].
+
+YouTube. (2017). Build An HTML5 Website With A Responsive Layout. [online] Available at: https://www.youtube.com/watch?v=Wm6CUkswsNw [Accessed 15 Dec. 2017].
+
+YouTube. (2017). Basic Parallax Website With HTML & CSS. [online] Available at: https://www.youtube.com/watch?v=JttTcnidSdQ [Accessed 9 Dec. 2017].
+
+CodePen. (2017). HTML5 and CSS3 Three Column Responsive Layout. [online] Available at: https://codepen.io/smashtheshell/pen/qOrrwV [Accessed 25 Dec. 2017].
+
+YouTube. (2017). How to create responsive navigation bar and menus?. [online] Available at: https://www.youtube.com/watch?v=dhtEAhHgiok&t=850s [Accessed 22 Dec. 2017].
+
