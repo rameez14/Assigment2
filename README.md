@@ -37,10 +37,14 @@ The header I have used in my website is a horizontal navigation bar with links t
 
 ![navigationbar](https://user-images.githubusercontent.com/25589868/34320401-7a04be46-e7f1-11e7-87f3-11b53f1020d5.jpg)
 
+## Footer
+
+The footer is a very basic footer which is displayed at the bottom of my page, it only displays my Rameez Hussain portfolio website, it is fixed at the bottom of my page.
+
+![footer](https://user-images.githubusercontent.com/25589868/34441619-d1a20a10-ecb4-11e7-8168-a0159e3c25c9.jpg)
 
 ## About me page
 This is the page where you get to know me, on this page you can click to download my CV and read about me life.
-
 
 ![aboutme2](https://user-images.githubusercontent.com/25589868/34320410-ba6f2462-e7f1-11e7-96a2-f45e5ee958df.jpg)
 
