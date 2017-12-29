@@ -8,8 +8,8 @@ body, html{
   line-height:1.5em;
   color:#666;
   width:100%;
-  background-color: green;
   scroll-behavior: smooth;
+  background-color: green;
 }
 
 .picture1 {
@@ -18,7 +18,7 @@ body, html{
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
-  background-image:url('../img/background2.jpg');
+  background-image:url('../img/background4.jpg');
   min-height:100%;
 }
 
@@ -181,7 +181,7 @@ h1 {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	margin-top: -90%;
+	margin-top: -100%;
 }
 
 h1 span {
@@ -366,8 +366,8 @@ body, html{
   line-height:1.5em;
   color:#666;
   width: 100%;
-  background-color: yellow;
   scroll-behavior: smooth;
+  background-color: yellow;
 }
 
 .picture1 {
@@ -376,7 +376,7 @@ body, html{
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
-  background-image:url('../img/background2.jpg');
+  background-image:url('../img/background4.jpg');
   min-height:100%;
 }
 
@@ -483,7 +483,7 @@ h2{
 }
 
 #clock{
-	margin-top: 5%;
+	margin-top: -5%;
 	text-align: center;
 	font-size: 50px;
 	color: blue;
@@ -545,7 +545,7 @@ h1 {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	margin-top: -10%;
+	margin-top: -15%;
 }
 
 h1 span {
@@ -606,7 +606,7 @@ footer{
 	width: 100px;
 	height: 100px;
 	background: #ff6d4a;
-	margin: 700px 20px 250px 5px;
+	margin: 500px 20px 250px 5px;
 	border-radius:50%;
 	color: #ffffff;
 	font-size: 20px;
@@ -721,8 +721,8 @@ body, html{
   line-height:1.5em;
   color:#666;
   width: 100%;
-  background-color: blue;
   scroll-behavior: smooth;
+  background-color: blue;
 }
 
 .picture1 {
@@ -731,7 +731,7 @@ body, html{
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
-  background-image:url('../img/background2.jpg');
+  background-image:url('../img/background4.jpg');
   min-height:100%;
 }
 
@@ -809,7 +809,7 @@ h2{
 }
 
 #clock{
-	margin-top: 5%;
+	margin-top: -3%;
 	text-align: center;
 	font-size: 50px;
 	color: blue;
@@ -915,7 +915,7 @@ footer{
 
 .center {
 	position: absolute;
-	top: 50%;
+	top: 35%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
@@ -924,7 +924,7 @@ footer{
 	width: 100px;
 	height: 100px;
 	background: #ff6d4a;
-	margin: 700px 20px 250px 5px;
+	margin: 850px 20px 250px 5px;
 	border-radius:50%;
 	color: #ffffff;
 	font-size: 20px;
