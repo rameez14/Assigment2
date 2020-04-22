@@ -55,7 +55,7 @@ function dispalyclock(){
 let pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
 // This displays the questions
 let questions = [
-    [ "What was I born in?", "Leicester", "Bedford", "London", "B" ],
+    [ "Where was I born in?", "Leicester", "Bedford", "London", "B" ],
 	[ "What university am I currently studying in?", "University of Leicester", "Brunel university", "De Montfort university", "C" ],
 	[ "What degree am I currently studying?", "Computer Science", "Computer Security", "Software Engineering", "A" ],
 	[ "What secondary school did I attend?", "Kingsbury High School ", "Beaumont Leys School", "Biddenham Upper School", "C" ]
