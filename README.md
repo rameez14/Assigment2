@@ -1,7 +1,7 @@
 ## Website Project – Portfolio website 
 
 ## Introduction 
-This is a website directed towards myself mainly focussing on how I am, my skills, my education and a contact me form in which the user can fill in and I will receive a email automatically. Whilst planning my website I drew a rough sketch of what my website will look like and, however later I changed my mind and drew another rough sketch on what my website should include, the drawing you can find below as a form of a screenshot. All the relevant folder you can find on my GitHub page.
+This is a website directed towards myself mainly focussing on who I am, my skills, my education and a contact me form in which the user can fill in and I will receive a email automatically.Whilst the user is on the about me section of my website the user will be able to download my CV and read further on about my life. Whilst planning my website I drew a rough sketch of what my website will look like and, however later I changed my mind and drew another rough sketch on what my website should include, the drawing you can find below as a form of a screenshot. All the relevant folder you can find on my GitHub page.
 
 ## First designs
 I started to design my website, but I wasn’t very happy about the design, layout, structure and the features of my website so therefore, I decided to start again, this time trying to make it responsive.
