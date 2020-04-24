@@ -128,7 +128,7 @@ To make my website user friendly I decided to make the navigation bar at a fixed
 One user said to me that my CSS animations was not relevant, and I should not include them.
 
 ## Problem resolved three
-I take this comment on board, the reason why I never decided to get rid of the CSS animations was purely because I could demonstrate my knowledge of using CSS animations for this assignment. 
+I have now removed majority of the CSS animations apart from my name as I believe this looks visually appealing and shows my knowledge on implementing CSS animations. The reason why I never removed the CSS animations initially was due to the assignment purposes.
 
 ## Testing four
 One user said to me that my website should be able to translate in to other languages.
