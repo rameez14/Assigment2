@@ -134,7 +134,7 @@ I have now removed majority of the CSS animations apart from my name as I believ
 One user said to me that my website should be able to translate in to other languages.
 
 ## Problem resolved four
-I take this comment on board, I am currently trying to add this feature in my website, but it is proving difficult. If I have time and figure out how to add this feature I would add it. I would add it. I Have now added this feature by using the Yandex Translator widget for websites, you can translate my website into any language you want now using this feature.
+I Have added this feature by using the Yandex Translator widget for websites, you can translate my website into multiple language using this feature.
 
 ![yandextranslatorwidget](https://user-images.githubusercontent.com/25589868/34441824-1b3700bc-ecb6-11e7-9e2e-f08973bd251d.jpg)
 
