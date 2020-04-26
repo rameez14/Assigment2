@@ -56,8 +56,8 @@ let pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correc
 // This displays the questions
 let questions = [
     [ "Where was I born in?", "Leicester", "Bedford", "London", "B" ],
-	[ "What university am I currently studying in?", "University of Leicester", "Brunel university", "De Montfort university", "C" ],
-	[ "What degree am I currently studying?", "Computer Science", "Computer Security", "Software Engineering", "A" ],
+	[ "What university am I currently studying in?", "University of Leicester", "De Montfort university", "University of Sheffield", "C" ],
+	[ "What degree am I currently studying?", "Cyber Security and Artificial Intelligence", "Computer Security", "Computer Science", "A" ],
 	[ "What secondary school did I attend?", "Kingsbury High School ", "Beaumont Leys School", "Biddenham Upper School", "C" ]
 ];
 function _(y){
